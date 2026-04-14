@@ -128,12 +128,6 @@ You could extend this project by:
 ⭐ Hosting the app online (using Heroku / Vercel)
 ⭐ Adding database support for quiz analytics
 
----
 
-## 👩‍💻 About the Author
-
-**Isha Mankar**
-AI & Web Development Enthusiast • Data Science Learner
-➡️ GitHub: [https://github.com/ishamankar17](https://github.com/ishamankar17)
 
 
